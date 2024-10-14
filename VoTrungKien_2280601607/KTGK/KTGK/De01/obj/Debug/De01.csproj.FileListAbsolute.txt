@@ -1,0 +1,15 @@
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\bin\Debug\De01.exe.config
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\bin\Debug\De01.exe
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\bin\Debug\De01.pdb
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.frmSinhvien.resources
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.Properties.Resources.resources
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.csproj.GenerateResource.cache
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.exe
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.pdb
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\bin\Debug\EntityFramework.dll
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\bin\Debug\EntityFramework.SqlServer.dll
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\bin\Debug\EntityFramework.xml
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\bin\Debug\EntityFramework.SqlServer.xml
+E:\VoTrungKien_2280601607\KTGK\KTGK\De01\obj\Debug\De01.csproj.Up2Date
